@@ -22,7 +22,7 @@
 
 ## Github Stats
 
-<img src="https://github.com/DevangPagare002"/>
+<img src="https://github-readme-stats.vercel.app/api?username=DevangPagare002&&show_icons=true&count_private=true&theme=github_dark">|<img src="https://github-readme-streak-stats.herokuapp.com/?user=DevangPagare002&theme=blueberry_duo"/>
 
 
 ### Designed by 
