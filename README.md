@@ -1,16 +1,32 @@
-### Hi there 👋
+# Hi, I'm Devang 👋🏻
 
-<!--
-**DevangPagare002/DevangPagare002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  
+### AI Enthusiast 💻 | Passionate Programmer 👨🏻‍💻 | 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Skills
+- C, C++, Python, HTML, CSS, Javascript
+
+  
+## 😃 About me 
+ -🍳 Find me on [LinkedIn](https://www.linkedin.com/in/devang-pagare-90a12a219/)
+ 
+ -📚 Learning and Implementating Data Structure and Algorithms
+ 
+ -� Exploring Machine Learning and Deep Learning, Tenserflow and Computer Vision
+ 
+ -✉️ Reach me at [Gmail](devpagare002@gmail.com)
+
+  
+
+
+## Github Stats
+
+<img src="https://github.com/DevangPagare002"/>
+
+
+### Designed by 
+
+- [@DevangPagare](https://www.github.com/DevangPagare002)
+
+  
