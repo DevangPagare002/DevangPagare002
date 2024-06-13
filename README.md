@@ -1,7 +1,7 @@
 # Hi, I'm Devang 👋🏻
 
   
-### AI Engineer 💻 | Passionate Programmer 👨🏻‍💻 | 
+### AI/ML Engineer 💻 | Passionate Programmer 👨🏻‍💻 | 
 
 
 ## 🛠 Skills
@@ -11,9 +11,7 @@
 ## 😃 About me 
  -🍳 Find me on [LinkedIn](https://www.linkedin.com/in/devang-pagare)
  
- -📚 Learning and Implementing Natural Language Processing, ML, and Knowledge graphs.
- 
- -� Exploring Machine Learning and Deep Learning, Pytorch.
+ -� [Resume](https://salmon-nerty-83.tiiny.site/)
  
  -✉️ Reach me at [Gmail](devpagare002@gmail.com)
 
