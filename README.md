@@ -9,7 +9,7 @@
 
   
 ## 😃 About me 
- -🍳 Find me on [LinkedIn]([https://www.linkedin.com/in/devang-pagare])
+ -🍳 Find me on [LinkedIn](https://www.linkedin.com/in/devang-pagare)
  
  -📚 Learning and Implementing Natural Language Processing, ML, and Knowledge graphs.
  
