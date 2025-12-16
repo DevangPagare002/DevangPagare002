@@ -11,7 +11,7 @@
 ## 😃 About me 
  -🍳 Find me on [LinkedIn](https://www.linkedin.com/in/devang-pagare)
  
- -� [Resume](https://salmon-nerty-83.tiiny.site/)
+ -� [Resume](https://devang-pagare.tiiny.site/)
  
  -✉️ Reach me at [Gmail](devpagare002@gmail.com)
 
